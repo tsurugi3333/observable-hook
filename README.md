@@ -1,4 +1,4 @@
-# [observable-hooks](https://github.com/crimx/observable-hooks)
+# [observable-hooks]
 
 [![Docs](https://img.shields.io/badge/Docs-read-%23fdf9f5)](https://observable-hooks.js.org)
 [![npm-version](https://img.shields.io/npm/v/observable-hooks.svg)](https://www.npmjs.com/package/observable-hooks)
@@ -35,7 +35,7 @@ Observable is a powerful way to encapsulate both sync and async logic.
 
 [Testing](https://rxjs-dev.firebaseapp.com/guide/testing/marble-testing) Observables is also way easier than testing other async implementations.
 
-With [observable-hooks](https://github.com/crimx/observable-hooks) we can create rich reusable Components with ease.
+With [observable-hooks] we can create rich reusable Components with ease.
 
 ## What It Is Not
 
@@ -77,14 +77,14 @@ function transformTypingStatus(event$) {
 
 Read the docs at <https://observable-hooks.js.org> or [`./docs`](./docs/).
 
-Examples are in [here](https://github.com/crimx/observable-hooks/tree/main/examples). Play on CodeSandbox:
+Examples are in [here]. Play on CodeSandbox:
 
 - [Pomodoro Timer Example](https://codesandbox.io/s/github/crimx/observable-hooks/tree/main/examples/pomodoro-timer)
 - [Typeahead Example](https://codesandbox.io/s/github/crimx/observable-hooks/tree/main/examples/typeahead)
 - [Render-as-You-Fetch using Suspense](https://codesandbox.io/s/github/crimx/observable-hooks/tree/main/examples/suspense)
 - [React Context](https://codesandbox.io/s/github/crimx/observable-hooks/tree/main/examples/context)
 
-Note that there are also some useful [utilities](https://observable-hooks.js.org/api/helpers.html) for common use cases to reduce garbage collection.
+Note that there are also some useful [utilities]) for common use cases to reduce garbage collection.
 
 ## Developing
 
